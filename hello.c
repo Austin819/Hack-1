@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Austin Major Computer Science\n");
+  printf("Nathan Major Undeclared\n");
 
   return 0;
 }
